@@ -1,0 +1,36 @@
+.post-container {
+  background-color: #f7eded;
+  margin: 0px auto 100px auto;
+  width: 70%;
+  height: 100%;
+}
+
+.post-container .date{
+  color: #32b6b6;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.post-container div.post-content{
+  font-family: 'Open Sans', sans-serif;
+  width: 90%;
+}
+
+body{
+  margin: 0px;
+}
+
+.post-container .post{
+  padding: 20px 50px 0px 50px;
+  margin-bottom: 70px;
+}
+
+
+
+
+
+/*1. Background dos posts = #fffafa
+2. Cor da data = #008080
